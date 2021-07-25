@@ -728,3 +728,29 @@ div { position: absolute; }
 	text-align: left;
 	color:#6CB840;
 }
+
+
+#burger_pizz {
+	top: 322px;
+	left: 688px;
+	width: 242px;
+	height: 88px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 40px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#fries___drinks {
+	top: 382px;
+	left: 688px;
+	width: 293px;
+	height: 88px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 40px;
+	text-align: left;
+	color:#000000;
+}
