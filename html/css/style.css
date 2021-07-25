@@ -678,3 +678,28 @@ div { position: absolute; }
 	height: 1024px;
 	background:rgba(201,236,181,1);
 }
+
+
+#hot_deals {
+	top: 0px;
+	left: 545px;
+	width: 309px;
+	height: 125.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 57px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#abhishek_hajare_kkrxvkk_jhg_unsplash_removebg_preview_1 {
+	top: -87px ;
+	position: absolute ;
+	left: 13px;
+	width: 572px;
+	height: 858px;
+	background:url(https://user-images.githubusercontent.com/86789832/126908836-a415ae8a-9e28-4fd9-88dc-6d74d0966bc9.png);
+	background-size:cover;
+}
