@@ -448,3 +448,64 @@ div { position: absolute; }
 	background:url(https://user-images.githubusercontent.com/86789832/126908804-fc54fac8-caab-4ae6-b0e0-e7d8eba63e1e.png);
 	background-size:cover;
 }
+
+
+#burger_name_ek1 {
+	top: 595px;
+	left: 1001px;
+	width: 187px;
+	height: 55.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#there_is_something_profoundly_satisfying_about_sharing_a_meal___ek1 {
+	top: 643px;
+	left: 1101px;
+	width: 183px;
+	height: 102.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_1_ek3 {
+	top: 593px;
+	left: 531px;
+	width: 341px;
+	height: 198px;
+	background:rgba(255,255,255,1);
+}
+
+
+#amirali_mirhashemian_sc5stpmrvfk_unsplash_removebg_preview_1_ek2 {
+	top: 622px ;
+	position: absolute;
+	left: 424px;
+	width: 259px;
+	height: 229px;
+	background:url(https://user-images.githubusercontent.com/86789832/126908804-fc54fac8-caab-4ae6-b0e0-e7d8eba63e1e.png);
+	background-size:cover;
+}
+
+
+#burger_name_ek2 {
+	top: 603px;
+	left: 553px;
+	width: 187px;
+	height: 55.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
