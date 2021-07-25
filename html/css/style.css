@@ -988,3 +988,21 @@ div { position: absolute; }
 	text-align: left;
 	color:#000000;
 }
+
+
+#ig {
+	top: 177px ;
+	position: absolute ;
+	left: 1236px;
+	width: 58px;
+	height: 57px;
+	background:url(https://user-images.githubusercontent.com/86789832/126909590-43af99f4-979a-4826-851a-78194f1ed4bd.png);
+	background-size:cover;
+}
+
+#send_button_land_6 {
+	top: 274px;
+	left: 1192px;
+	width: 146px;
+	height: 48px;
+}
