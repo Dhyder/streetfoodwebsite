@@ -625,3 +625,28 @@ div { position: absolute; }
 	height: 198px;
 	background:rgba(255,255,255,1);
 }
+
+
+#amirali_mirhashemian_sc5stpmrvfk_unsplash_removebg_preview_1_ek5 {
+	top: 195px ;
+	position: absolute ;
+	left: 424px;
+	width: 259px;
+	height: 229px;
+	background:url(https://user-images.githubusercontent.com/86789832/126908804-fc54fac8-caab-4ae6-b0e0-e7d8eba63e1e.png);
+	background-size:cover;
+}
+
+
+#burger_name_ek5 {
+	top: 176px;
+	left: 553px;
+	width: 187px;
+	height: 55.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
