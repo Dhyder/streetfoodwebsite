@@ -1,0 +1,343 @@
+
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_landing_page_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__landing_page_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(229,229,229,1);
+}
+
+/*this code modifies the ellipse shape */
+#ellipse{
+	top: -500px ;
+	position: absolute;
+	left: 300px;
+	width: 1150px;
+	height: 1150px;
+	background:url(https://user-images.githubusercontent.com/86789832/126909585-f2ea57e1-b175-4113-8b1d-041f607d5025.png);
+	background-size:cover;
+	color:  #649549;
+}
+
+/*code for styling title*/
+#street_food {
+	top: 109px;
+	left: 545px;
+	width: 308px;
+	height: 106px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+/*star code*/
+#star_1 {
+	top: 46px;
+	position: absolute;
+	left: 648px;
+	width: 72px;
+	height: 63px;
+	background:url(https://user-images.githubusercontent.com/86789832/126909578-8469f234-412b-4088-b4a2-c60c50614d93.png);
+	background-size:cover;
+}
+
+
+#home,a {
+	top: 77px;
+	left: 61px;
+	width: 68px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+	text-decoration: none;
+}
+
+
+#about {
+	top: 77px;
+	left: 170px;
+	width: 69px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#our_menu {
+	top: 77px;
+	left: 280px;
+	width: 102px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#happy_hour {
+	top: 77px;
+	left: 423px;
+	width: 122px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#catering {
+	top: 77px;
+	left: 852px;
+	width: 94px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#reservation {
+	top: 77px;
+	left: 978px;
+	width: 122px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#gallery {
+	top: 77px;
+	left: 1119px;
+	width: 79px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#contact {
+	top: 77px;
+	left: 1230px;
+	width: 88px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+/*styles street food below dock head*/
+#street_food_ek1 {
+	top: 410px;
+	left: 61px;
+	width: 362px;
+	height: 125.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 57px;
+	font-weight: bold;
+	text-align: left;
+	color:#6CB840;
+}
+
+/*styles head text below street food*/
+#we_don_t_play_with_food {
+	top: 496px;
+	left: 61px;
+	width: 499px;
+	height: 88px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 40px;
+	text-align: left;
+	color:#000000;
+}
+/*styles paragraph in page 1*/
+#p3{
+	top: 556px;
+	left: 61px;
+	width: 563px;
+	height: 207.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_1 {
+	top: 775px;
+	left: 70px;
+	width: 255px;
+	height: 82px;
+	-ms-border-radius: 40px;
+	-o-border-radius: 40px;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	border-radius: 40px;
+	background:rgba(108,184,64,1);
+}
+
+/*styles order button*/
+#order_now,#a2 {
+	top: 794px;
+	left: 115px;
+	width: 181px;
+	height: 66px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+/* #img styles food images*/
+#image_2__1__1 {
+	top: 296px;
+	position: absolute;
+	left: 720px;
+	width: 167px;
+	height: 144px;
+	background:url(https://user-images.githubusercontent.com/86789832/126908917-24fef430-cadb-49dc-b0bc-56567f3043f9.png);
+	background-size:cover;
+}
+
+
+#image_1_1 {
+	top: 463px ;
+	position: absolute ;
+	left: 627px;
+	width: 115px;
+	height: 98px;
+	background:url(
+		https://user-images.githubusercontent.com/86789832/126908895-57caf63e-4174-4436-85a1-f0ef00960d68.png);
+	background-size:cover;
+}
+
+
+#image_5__1__1 {
+	top: 453px ;
+	position: absolute ;
+	left: 1267px;
+	width: 143px;
+	height: 126px;
+	background:url(
+		https://user-images.githubusercontent.com/86789832/126908981-e89d865f-2278-4bfb-99cf-acc5a639e2ee.png);
+	background-size:cover;
+}
+
+
+#image_3_1 {
+	top: 254px ;
+	position: absolute ;
+	left: 958px;
+	width: 120px;
+	height: 104px;
+	background:url(https://user-images.githubusercontent.com/86789832/126908973-f4e578fb-7ee8-4d72-9f23-f749ce8d08aa.png);
+	background-size:cover;
+}
+
+
+#image_2__1__2 {
+	top: 313px ;
+	position: absolute ;
+	left: 1149px;
+	width: 155px;
+	height: 140px;
+	background:url(https://user-images.githubusercontent.com/86789832/126908917-24fef430-cadb-49dc-b0bc-56567f3043f9.png);
+	background-size:cover;
+}
+
+
+#image_5__1__2 {
+	top: 479px ;
+	position: absolute ;
+	left: 824px;
+	width: 337px;
+	height: 337px;
+	background:url(
+		https://user-images.githubusercontent.com/86789832/126908981-e89d865f-2278-4bfb-99cf-acc5a639e2ee.png);
+	background-size:cover;
+}
+
+#page_landing_page_2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__landing_page_2_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#eating_together_1 {
+	top: 192px ;
+	position: absolute ;
+	left: 0px;
+	width: 813px;
+	height: 581px;
+	background:url(https://user-images.githubusercontent.com/86789832/126908872-a0b077bf-c33f-45a1-aacf-cd63c1486b02.png);
+	background-size:cover;
+}
+
+
+#eat_together {
+	top: 281px;
+	left: 856px;
+	width: 389px;
+	height: 125.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 57px;
+	font-weight: bold;
+	text-align: left;
+	color:#EAAB1B;
+}
