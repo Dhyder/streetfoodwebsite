@@ -960,3 +960,31 @@ div { position: absolute; }
 	text-align: left;
 	color:#000000;
 }
+
+
+#follow {
+	top: 178px;
+	left: 820px;
+	width: 120px;
+	height: 55.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 25px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: left;
+	color:#000000;
+}
+
+
+#get_the_latest_news_sign_up_for_our_newsletters__website_design {
+	top: 234px;
+	left: 820px;
+	width: 390px;
+	height: 169.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#000000;
+}
