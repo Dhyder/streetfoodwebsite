@@ -905,3 +905,31 @@ div { position: absolute; }
 	text-align: left;
 	color:#000000;
 }
+
+
+#friday___saturday_4_10pm {
+	top: 253px;
+	left: 67px;
+	width: 239px;
+	height: 131.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_1 {
+	top: 263px;
+	left: 214px;
+	width: 246.04px;
+	height: 2px;
+	
+	-ms-transform:rotate(-89.07deg);
+	-o-transform:rotate(-89.07deg);
+	-webkit-transform:rotate(-89.07deg);
+	-moz-transform:rotate(-89.07deg);
+	transform:rotate(-89.07deg);
+	background:#000000;
+}
