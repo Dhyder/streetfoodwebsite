@@ -848,3 +848,32 @@ div { position: absolute; }
 	text-align: center;
 	color:#000000;
 }
+
+
+#rectangle_3 {
+	color: #FFFFFF;
+	top: 573px;
+	left: 623px;
+	width: 195px;
+	height: 52px;
+	position: relative;
+	-ms-border-radius: 40px;
+	-o-border-radius: 40px;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	border-radius: 40px;
+	background:rgba(108,184,64,1);
+}
+
+
+#send {
+	top: 580px;
+	left: 684px;
+	width: 82px;
+	height: 55.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: center;
+	color:#FFFFFF;
+}
