@@ -430,3 +430,21 @@ div { position: absolute; }
 	text-align: center;
 	color:#000000;
 }
+#rectangle_1_ek2 {
+	top: 585px;
+	left: 979px;
+	width: 341px;
+	height: 198px;
+	background:rgba(255,255,255,1);
+}
+
+/*styles img*/
+#amirali_mirhashemian_sc5stpmrvfk_unsplash_removebg_preview_1_ek1 {
+	top: 614px ;
+	position: absolute ;
+	left: 872px;
+	width: 259px;
+	height: 229px;
+	background:url(https://user-images.githubusercontent.com/86789832/126908804-fc54fac8-caab-4ae6-b0e0-e7d8eba63e1e.png);
+	background-size:cover;
+}
