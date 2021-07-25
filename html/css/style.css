@@ -774,3 +774,25 @@ div { position: absolute; }
 	width: 1440px;
 	height: 1024px;
 }
+
+#_bg__landing_page_5_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,245,221,1);
+}
+
+
+#contact_us {
+	top: 0px;
+	left: 560px;
+	width: 354px;
+	height: 125.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 57px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
